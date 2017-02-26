@@ -123,6 +123,12 @@
   .footer-inner:before { float: right; }
 }
 
-.header{ width: 80%; }
-.container .main-inner { width: 80%; }
-.content-wrap { width: calc(100% - 260px); }
+if $pisces_layout == "fluid"
+  @media (min-width: 1300px) // 1366 * 768
+    .header
+    .container .main-inner
+      width 1320px
+    .content-wrap
+      width 1066px
+    .back-to-top
+      right 20px

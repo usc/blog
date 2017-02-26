@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "lishunli, usc3l, Java"
+keywords: "lishunli,usc3l,Java"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -74,6 +74,7 @@ menu_icons:
 #scheme: Mist
 scheme: Pisces
 
+pisces_layout: fluid
 
 # ---------------------------------------------------------------
 # Font Settings
