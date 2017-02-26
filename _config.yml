@@ -72,3 +72,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+google_analytics: UA-27888702-10
