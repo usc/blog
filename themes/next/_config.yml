@@ -28,7 +28,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -324,7 +324,7 @@ mathjax:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-27888702-10
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/

@@ -37,16 +37,17 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 $ hexo deploy
 ```
 
+More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+### Codes
+
 ``` java
 /**
-*
-* @author Shunli
-*/
+ * @author Shunli
+ */
 public class HelloWorld {
   public static void main(String[] args) {
       System.out.println("Hello World!");
   }
 }
 ```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)

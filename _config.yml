@@ -6,9 +6,6 @@
 title: usc3l's blog
 subtitle:
 description:
-  - lishunli
-  - usc3l
-  - Java
 author: lishunli
 language: en
 timezone: Asia/Shanghai
@@ -72,5 +69,3 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
-
-google_analytics: UA-27888702-10
